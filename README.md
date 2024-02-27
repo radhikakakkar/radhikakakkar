@@ -1,5 +1,21 @@
 <h1 align="center">Hi 👋, I'm Radhika Kakkar</h1>
 
+<h3>
+I am Software Developer from New Delhi, India. I love writing code that allows me to create impactful solutions.
+</h3>    
+<br>
+
+Here is a list of things I do:
+<ul>
+
+✨ Designing and implementing Software engineering solutions for particular use cases.<br>
+📊 Developing user friendly applications with contemporary perspectives.<br>
+🔎 Analysing and Debugging workflow of large code bases and placing solutions rightfully.<br>
+
+</ul>
+<br>
+<br>
+
 <summary><h2> Recently Listening To</h2></summary>
 
 <div align="center">
