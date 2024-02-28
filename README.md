@@ -16,6 +16,35 @@ Here is a list of things I do:
 <br>
 <br>
 
+<summary><h2>🦾 Preferred Tech Stack</h2></summary>
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://reactjs.org/">React.js</a></li>
+    <li><a href="">JavaScript</a></li>
+    <li><a href="">CSS</a></li>
+    <li><a href="">Bootstrap/Tailwind</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li><a href="">FastAPI</a></li>
+    <li><a href="">Node</a></li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+     <li><a href="">MongoDB</a></li>
+    <li><a href="">MySQL</a></li>
+   
+  </ul>
+</details>
+
+
 <summary><h2> Recently Listening To</h2></summary>
 
 <div align="center">
