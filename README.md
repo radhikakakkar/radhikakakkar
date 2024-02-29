@@ -17,32 +17,21 @@ Here is a list of things I do:
 <br>
 
 <summary><h2>🦾 Preferred Tech Stack</h2></summary>
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-    <li><a href="">JavaScript</a></li>
-    <li><a href="">CSS</a></li>
-    <li><a href="">Bootstrap/Tailwind</a></li>
-  </ul>
-</details>
 
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="">FastAPI</a></li>
-    <li><a href="">Node</a></li>
-  </ul>
-</details>
 
-<details>
-<summary>Database</summary>
-  <ul>
-     <li><a href="">MongoDB</a></li>
-    <li><a href="">MySQL</a></li>
-   
-  </ul>
-</details>
+<br>
+
+  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<br>
+  ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<br>
+  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<br>
 
 
 <summary><h2> Recently Listening To</h2></summary>
@@ -52,7 +41,6 @@ Here is a list of things I do:
 <img src="https://apple-music-cards.vercel.app/?" align="center">
 </a>
 </div>
-<!-- <details> -->
 <summary><h2>🥰 Catch Me </h2></summary>
 <div align="center">
 <br>
@@ -62,4 +50,3 @@ Here is a list of things I do:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:radhika3273@gmail.com)
 
 </div>
-<!-- </details>  -->
