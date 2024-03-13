@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Radhika Kakkar</h1>
 
 <h3>
-I am Software Development Engineer from New Delhi, India. I love writing code that allows me to create impactful solutions.
+I am Software Development Engineer from New Delhi, India. I love writing code for impactful solutions and new age projects.
 </h3>    
 <br>
 
