@@ -3,7 +3,7 @@
 I am Software Development Engineer from New Delhi, India. I love writing code for impactful solutions and new age projects.
 </h3>    
 <br>
-<img src="https://res.cloudinary.com/dlncni9th/image/upload/v1719668617/radhika_memoji_aletso.jpg" width="200" align="right">
+<img src="https://res.cloudinary.com/dlncni9th/image/upload/v1719679310/radhika_memoji_rtqzki.png" width="200" align="right">
 Here is a list of things I do:
 <ul>
 
