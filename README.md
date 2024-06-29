@@ -24,10 +24,10 @@ Here is a list of things I do:
     <tr style="border: none">
         <td style="border: none"> <b>Languages</b> </td>
         <td align="right">
-            <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=000000&labelColor=000000">
-            <img src="https://img.shields.io/badge/C++-informational?style=flat&logo=c%2b%2b&logoColor=black&color=fff&labelColor=fff">
-            <img src="https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=000&labelColor=000000">
-            <img src="https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=black&color=fff&labelColor=fff">
+            <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=yellow&color=blue&labelColor=000000">
+            <img src="https://img.shields.io/badge/C++-informational?style=flat&logo=c%2b%2b&logoColor=black&color=7A286D&labelColor=fff">
+            <img src="https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=287A39&color=000&labelColor=fff">
+            <img src="https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=black&color=7A2838&labelColor=fff">
         </td>
     </tr>
     <tr>
