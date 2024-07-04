@@ -20,38 +20,40 @@ Here is a list of things I do:
 <br>
 <br>
 <div align="center">
-<table style="border: none">
-    <tr style="border: none">
-        <td style="border: none"> <b>Languages</b> </td>
-        <td align="right">
-            <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=yellow&color=blue&labelColor=000000">
-            <img src="https://img.shields.io/badge/C++-informational?style=flat&logo=c%2b%2b&logoColor=black&color=7A286D&labelColor=fff">
-            <img src="https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=287A39&color=000&labelColor=fff">
-            <img src="https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=black&color=7A2838&labelColor=fff">
+<table style="border: none; width: 100%;">
+    <tr style="border: none;">
+        <td style="border: none;"><b>Languages</b></td>
+        <td align="right" style="border: none;">
+            <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=FFD343&color=3776AB&labelColor=306998">
+            <img src="https://img.shields.io/badge/C++-informational?style=flat&logo=c%2b%2b&logoColor=white&color=00599C&labelColor=004482">
+            <img src="https://img.shields.io/badge/C-informational?style=flat&logo=c&logoColor=white&color=A8B9CC&labelColor=5C6BC0">
+            <img src="https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=4EAA25&labelColor=333333">
         </td>
     </tr>
-    <tr>
-        <td> <b>Web Frameworks</b> </td>
-        <td align="right">
-            <img src="https://img.shields.io/badge/FastAPI-informational?style=flat&logo=FastAPI&logoColor=white&color=000&labelColor=000000">
-            <img src="https://img.shields.io/badge/ReactJS-informational?style=flat&logo=ReactJS&logoColor=white&color=000&labelColor=000000">
-            <img src="https://img.shields.io/badge/django-informational?style=flat&logo=django&logoColor=white&color=000&labelColor=000000">
+    <tr style="border: none;">
+        <td style="border: none;"><b>Web Frameworks</b></td>
+        <td align="right" style="border: none;">
+            <img src="https://img.shields.io/badge/FastAPI-informational?style=flat&logo=FastAPI&logoColor=white&color=009688&labelColor=00796B">
+            <img src="https://img.shields.io/badge/ReactJS-informational?style=flat&logo=React&logoColor=61DAFB&color=20232A&labelColor=333333">
+            <img src="https://img.shields.io/badge/django-informational?style=flat&logo=django&logoColor=white&color=092E20&labelColor=136149">
         </td>
     </tr>
-    <tr>
-        <td> <b>SQL Databases</b> </td>
-        <td align="right">
-            <img src="https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=000&labelColor=000000">
-            <img src="https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=black&color=fff&labelColor=fff">
+    <tr style="border: none;">
+        <td style="border: none;"><b>SQL Databases</b></td>
+        <td align="right" style="border: none;">
+            <img src="https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791&labelColor=003B57">
+            <img src="https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=00758F&labelColor=00618A">
         </td>
     </tr>
-    <tr>
-        <td> <b>NoSQL Databases</b> </td>
-        <td align="right">
-            <img src="https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=000&labelColor=000000">
+    <tr style="border: none;">
+        <td style="border: none;"><b>NoSQL Databases</b></td>
+        <td align="right" style="border: none;">
+            <img src="https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248&labelColor=4DB33D">
         </td>
     </tr>
 </table>
+
+
 </div>
 
 
