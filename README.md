@@ -53,9 +53,7 @@ Here is a list of things I do:
     </tr>
 </table>
 
-
 </div>
-
 
 <summary><h2> Recently Listening To</h2></summary>
 
@@ -72,6 +70,12 @@ Here is a list of things I do:
  </a>
  <a href="https://www.linkedin.com/in/radhika-kakkar/" target="_blank">
  <img alt="TF" src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=fff&labelColor=blue"/>
+ </a>
 </div>
 
+</div>
+
+<br>
+<div align="center">
+    <p>Ambient noise for <a href="https://github.com/radioactive11">@radioactive11</a> 😩</p>
 </div>
