@@ -1,15 +1,15 @@
 <h1 align="center">Hi, I'm Radhika Kakkar 👋🏻</h1>
 <h3>
-I am Software Development Engineer from New Delhi, India. I love writing code for impactful solutions and new age projects.
+I am a Software Development Engineer from New Delhi, India, specializing in backend systems. I'm passionate about architecting server-side solutions for innovative projects.
 </h3>    
 <br>
 <img src="https://res.cloudinary.com/dlncni9th/image/upload/v1719679310/radhika_memoji_rtqzki.png" width="200" align="right">
 Here is a list of things I do:
 <ul>
 
-✨ Designing and implementing Software engineering solutions for particular use cases.<br>
-📊 Developing user friendly applications with contemporary perspectives.<br>
-🔎 Analysing and Debugging workflow of large code bases and placing solutions rightfully.<br>
+✨ Designing & implementing engineering solutions for particular use cases.<br>
+🔎 Debugging & analysing workflow of large code bases and placing solutions rightfully.<br>
+🔩 Managing data structure transformations and maintaining consistency between frontend interfaces and backend systems.<br>
 
 </ul>
 <br>
@@ -34,8 +34,8 @@ Here is a list of things I do:
         <td style="border: none;"><b>Web Frameworks</b></td>
         <td align="right" style="border: none;">
             <img src="https://img.shields.io/badge/FastAPI-informational?style=flat&logo=FastAPI&logoColor=white&color=009688&labelColor=00796B">
-            <img src="https://img.shields.io/badge/ReactJS-informational?style=flat&logo=React&logoColor=61DAFB&color=20232A&labelColor=333333">
             <img src="https://img.shields.io/badge/django-informational?style=flat&logo=django&logoColor=white&color=092E20&labelColor=136149">
+            <img src="https://img.shields.io/badge/ReactJS-informational?style=flat&logo=React&logoColor=61DAFB&color=20232A&labelColor=333333">
         </td>
     </tr>
     <tr style="border: none;">
@@ -49,6 +49,15 @@ Here is a list of things I do:
         <td style="border: none;"><b>NoSQL Databases</b></td>
         <td align="right" style="border: none;">
             <img src="https://img.shields.io/badge/MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=47A248&labelColor=4DB33D">
+            <img src="https://img.shields.io/badge/Redis-informational?style=flat&logo=redis&logoColor=white&color=DC382D&labelColor=B02C23">
+        </td>
+    </tr>
+    <tr style="border: none;">
+        <td style="border: none;"><b>Tools</b></td>
+        <td align="right" style="border: none;">
+            <img src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=F05032&labelColor=DE4C36">
+            <img src="https://img.shields.io/badge/Postman-informational?style=flat&logo=postman&logoColor=white&color=FF6C37&labelColor=EF5B25">
+            <img src="https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED&labelColor=1D83D4">
         </td>
     </tr>
 </table>
@@ -66,10 +75,10 @@ Here is a list of things I do:
 <div align="center">
 <br>
  <a href="mailto:radhika3273@gmail.com" target="_blank">
- <img alt="TF" src="https://img.shields.io/badge/Email-informational?style=flat&logo=apple&logoColor=white&color=fff&labelColor=pink"/>
+ <img alt="Email" src="https://img.shields.io/badge/Email-radhika3273%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=EA4335&labelColor=D93025"/>
  </a>
  <a href="https://www.linkedin.com/in/radhika-kakkar/" target="_blank">
- <img alt="TF" src="https://img.shields.io/badge/LinkedIn-informational?style=flat&logo=linkedin&logoColor=white&color=fff&labelColor=blue"/>
+ <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-radhika--kakkar-informational?style=flat&logo=linkedin&logoColor=white&color=0A66C2&labelColor=0077B5"/>
  </a>
 </div>
 
